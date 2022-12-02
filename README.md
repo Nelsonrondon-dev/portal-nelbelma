@@ -73,7 +73,7 @@ Web portal made to measure made in Laravel 7. For the company NELBELMA.CA, to su
 
 ## APP
 
-[Portal-Administrativo](https://stupefied-kepler.143-198-236-91.plesk.page/nelbelma_app/public/login)
+[Portal-Administrativo](https://nelson-dev.tech/nelbelma_app/public/login)
 
 
 ## Tech Stack
@@ -88,9 +88,9 @@ Web portal made to measure made in Laravel 7. For the company NELBELMA.CA, to su
 
 ## Screenshots Project
 
-![Portal-Administrativo](https://stupefied-kepler.143-198-236-91.plesk.page/img/nelbelma-app/Nelbelma-app.png)
+![Portal-Administrativo](https://nelson-dev.tech/img/nelbelma-app/Nelbelma-app.png)
 
-![Portal-Administrativo](https://stupefied-kepler.143-198-236-91.plesk.page/img/nelbelma-app/Nelbelma-app-user.png)
+![Portal-Administrativo](https://nelson-dev.tech/img/nelbelma-app/Nelbelma-app-user.png)
 
 
 
